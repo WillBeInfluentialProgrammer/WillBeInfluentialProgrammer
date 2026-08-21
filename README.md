@@ -1,39 +1,104 @@
+# 👋 Hi, I'm Tashfeen Mehmood
 
-# Hi, welcome to my profile!👋
+### AI Engineer | AI Agents & Automation | LLMs | RAG | n8n
 
-I am Tashfeen Mehmood, a software Engineer.I have done my bachelors in Computer Sciences and learning to become a better programmer day by day.My interests are in AI,ML,DL,Computer Vision,Data Science as I have done my Final Year Project in "Visual Relationship Detection in Images Using Deep Learning"
-I try to write minimal, efficient and readable code for users to understand. I always try to learn new things and use my expertise to inovate 
-something new and will continue ahead with this approach.
+I’m an **AI Engineer focused on building practical AI systems and workflow automations** that reduce repetitive work, improve operational efficiency, and help teams get more done.
 
-# Skills👩‍💻
-1-Languages: Python, JavaScript
+My current focus is on **AI agents, LLM applications, RAG systems, intelligent document processing, and n8n automation**.
 
-2-Front-end: HTML, CSS
+I enjoy turning real-world business problems into automated, AI-powered workflows.
 
-3-Frameworks: Django, Bootstrap
+---
 
-4-Databases: MySQL, PostgreSQL
+## 🚀 What I'm Building
 
-5-Tools: Git, VS Code ,Jupyter Notebook , Microsoft Azure 
+* 🤖 **AI Agents & LLM Applications**
+* ⚙️ **Business Process Automation with n8n**
+* 🧠 **Retrieval-Augmented Generation (RAG) Systems**
+* 📄 **Intelligent Document Processing**
+* 🔗 **API & Workflow Integrations**
+* 📊 **Machine Learning & Data Science**
+* 👁️ **Computer Vision & Deep Learning**
+* ☁️ **Cloud AI Solutions**
 
-6-AI,ML,DL,CV(Algorithms,Libraries)
+---
 
-# Experience:
-Internship At Code Alpha
-Data Science: Machine Learning 
+## 🧠 AI & Machine Learning
 
-# Education🎓
-Bachelor's degree in Computer Science
+I have experience working with:
 
-Course: web development in python
-Course:Azure AI 900 (Artificiall Intelligence and Machine Learning)
- 
+* **Python**
+* **Machine Learning**
+* **Deep Learning**
+* **Computer Vision**
+* **LLMs**
+* **RAG**
+* **AI Agents**
+* **LangChain**
+* **TensorFlow**
+* **PyTorch**
+* **Embeddings & Vector Search**
+* **Document Processing**
+* **Prompt Engineering**
 
-# Contact📩
-1-Email: tashfeenmehmood510@gmail.com
+---
 
-2-Linkedin: https://www.linkedin.com/in/tashfeen-mehmood-b4781122a
+## 🛠️ Technical Stack
+
+### Languages
+
+🐍 Python
+🟨 JavaScript
+🌐 HTML
+🎨 CSS
+
+### AI / ML
+
+`LLMs` `RAG` `AI Agents` `Machine Learning` `Deep Learning` `Computer Vision` `TensorFlow` `PyTorch` `LangChain`
+
+### Automation
+
+`n8n` `Workflow Automation` `Webhooks` `REST APIs` `API Integrations`
+
+### Backend
+
+`FastAPI` `Django`
+
+### Databases
+
+`MySQL` `PostgreSQL` `Chroma`
+
+### Cloud & Tools
+
+`Microsoft Azure` `Git` `GitHub` `VS Code` `Docker` `Jupyter Notebook`
+
+---
+
+## 📌 What I'm Currently Learning
+
+I'm continuously expanding my skills in:
+
+* 🤖 Advanced AI Agents
+* 🧠 LLM architectures
+* 🔎 RAG & vector databases
+* ⚙️ AI workflow automation
+* 🔗 Tool/API integrations
+* ☁️ Cloud AI deployment
+* 🏗️ Production-ready AI systems
+
+---
+
+## 📈 GitHub Activity
+
+I’m actively building and publishing AI and automation projects on GitHub.
+
+My goal is not just to experiment with AI, but to **build systems that solve actual operational problems**.
 
 
 
 
+---
+
+### 💡 Building AI systems that automate work, reduce repetitive tasks, and turn ideas into useful products.
+
+**Always learning. Always building. 🚀**
